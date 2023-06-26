@@ -15,3 +15,20 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+
+## DocServer content
+
+This documentation is pulled from plantuml branch.
+
+
+## Plantuml Example
+
+``` plantuml
+Hello <|-- World
+```
+
+```plantuml
+bob -> alice
+alice -> bob
+```
